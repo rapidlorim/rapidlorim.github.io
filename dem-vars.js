@@ -1,6 +1,1 @@
-function msg(){  
-    alert("Hello everyone");  
-   }  
-
-
-msg();   
+var word = "just saying";
