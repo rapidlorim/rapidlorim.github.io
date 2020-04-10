@@ -13,7 +13,7 @@ var gDoc = 'https://spreadsheets.google.com/feeds/cells/1IbKzrzahbh-BzT7QtJ8OcWZ
 
 //this variable represents the signup limit total for this promotion
 //it is used with the JSON response to cut of additional signups 
-var tallyTotal = 15;
+var tallyTotal = 10;
 
 //these are the coordinates of the event where the promotion will take place
 var UpperLat = 50;
