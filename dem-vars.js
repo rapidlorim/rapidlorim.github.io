@@ -9,6 +9,8 @@ var successCookie = "454=Greg";
 //make sure this is the same on both pages (here and success page)
 var yum = "512=woak";
 
+var gDoc = 'https://spreadsheets.google.com/feeds/cells/1IbKzrzahbh-BzT7QtJ8OcWZXFXmDrIia3b2LLLD9r4M/1/public/full?alt=json';
+
 //this variable represents the signup limit total for this promotion
 //it is used with the JSON response to cut of additional signups 
 var tallyTotal = 15;
