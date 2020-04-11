@@ -21,15 +21,6 @@ var LowerLat = 30;
 var WestLong = -100;
 var EastLong = -110;
 
-//this is the variable/cookie from the Success Page
-//the function that checks for this doesn't want to find it
-//make sure this is the same on both pages (here and Success Page)
-var successCookie = "454=Greg";
-  
-//this variable will be used as a cookie, to make sure that people don't repeat signing up over and over 
-//it is the one the Form Page looks for 
-var yum = "512=woak";
-
 //this just sets a variable to false so that later it might become true, or false 
 var subCookie = false;
   
