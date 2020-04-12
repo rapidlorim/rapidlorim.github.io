@@ -4,7 +4,7 @@ var successCookie = "444=Greg";
 //this variable will be used as a cookie, to make sure that people don't repeat signing up over and over
 //make sure this is the same on both pages (success page and check location)
 // var successCookie = "454=Greg";
-
+ 
 //this variable will be used as a cookie, to make sure that people have had their location checked before getting to form page
 //make sure this is the same on both pages (here and success page)
 var yum = "515=woak";
