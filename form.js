@@ -1,5 +1,3 @@
-<script>
-
 //this part checks the total tally on the google sheet
     //if it is under the threshold, goes to readCookie
     //if it is over the threshold, redirects to full-tilt page
@@ -62,5 +60,3 @@ for (var i = 0; i < ca.length; i++) {
     }
    
 }
-
-</script>
