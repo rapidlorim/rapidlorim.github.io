@@ -7,7 +7,7 @@ var successCookie = "444=Greg";
  
 //this variable will be used as a cookie, to make sure that people have had their location checked before getting to form page
 //make sure this is the same on both pages (here and success page)
-var yum = "555=woak";
+var yum = "111=woak";
 
 var gDoc = 'https://spreadsheets.google.com/feeds/cells/1wq7jb-lMsgQQHEhmplIyWQng8LZ_jR9F1iIfej4xUGQ/1/public/full?alt=json';
 
