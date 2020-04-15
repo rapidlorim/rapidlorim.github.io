@@ -1,5 +1,5 @@
-// bakedGoods ();
+bakedGoods ();
   
-// function bakedGoods () {
-// document.cookie = successCookie;
-//   }
+function bakedGoods () {
+document.cookie = successCookie;
+  }
